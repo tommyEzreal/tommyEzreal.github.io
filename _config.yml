@@ -20,13 +20,13 @@ description              : &description "M.S Student at Yonsei University"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Kwangwook Seo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "M.S Student at Yonsei University"
+  location         : "Seoul, Korea"
+  employer         : "Yonsei University"
+  # uri              : # URL
+  # email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
