@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "Seoul, Korea"
-# title                    : "Kwangwook Seo / M.S student at Yonsei Univ."
-# title_separator          : "-"
+title                    : "Kwangwook Seo"
+title_separator          : ""
 name                     : &name "Kwangwook Seo"
 description              : &description "M.S Student at Yonsei University"
 
