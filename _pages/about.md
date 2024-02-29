@@ -13,14 +13,15 @@ I'm M.S. student at the Data & Language Intelligence (DLI) Lab at Yonsei Univers
 
 ## Research Interest
 - Natrual Language Processing
-- df
+- Table Reasoning
+- Knowledge Augmented Languge Models
 
 
 ## Publications
 **2024**  
-- VerifiNER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models  
+- **VerifiNER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models**  
 Seoyeon Kim\*, **Kwangwook Seo**\*, Hyungjoo Chae, Jinyoung Yeo, Dongha Lee  
-arXiv preprint  
+*arXiv preprint*  
 
 ## Honors and Awards
 
