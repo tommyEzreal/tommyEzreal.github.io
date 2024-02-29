@@ -12,6 +12,8 @@ redirect_from:
 I'm M.S. student at the Data & Language Intelligence (DLI) Lab at Yonsei University, advised by prof. Dongha Lee. 
 
 ## Research Interest
+- Natrual Language Processing
+- df
 
 
 ## Publications
