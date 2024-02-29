@@ -30,7 +30,7 @@ Seoyeon Kim\*, **Kwangwook Seo**\*, Hyungjoo Chae, Jinyoung Yeo, Dongha Lee
 **Excellence Prize – 2022 HUFS AI Idea Contetst , HUFS AIEI**  
 
 **First Prize –HUFS 19th Spring Academic Conference , Department of Brazilian Studies**  
-*Regression Analysis on Brazilian Equity Index and Macroeconomic Influencing Factors* 
+*Regression Analysis on Brazilian Equity Index and Macroeconomic Influencing Factors*  
 
 **Second Prize –HUFS 18th Fall Academic Conference , Department of Brazilian Studies**  
 *Financial Ratio Analysis on Brazilian Travel Agencies Before and After COVID-19*  
