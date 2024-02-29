@@ -24,7 +24,8 @@ Seoyeon Kim\*, **Kwangwook Seo**\*, Hyungjoo Chae, Jinyoung Yeo, Dongha Lee
 *arXiv preprint* [[arxiv](https://arxiv.org/abs/2402.18374)]
 
 ## 🏆 Honors and Awards  
-- **First Prize – Bigcontest 2022 Data Analysis Champion League, MSIT and NIA**  
+- **First Prize – Bigcontest 2022 Data Analysis Champion League, MSIT and NIA**
+Minister of Science and ICT Award  
 *Optimal Location Selection of EV Slow Charger* [[presentation](https://www.youtube.com/watch?v=b7AGVEIontQ&t=54s)]  
 
 - **Excellence Prize – 2022 HUFS AI Idea Contetst , HUFS AIEI**  
