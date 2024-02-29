@@ -21,7 +21,7 @@ I'm M.S. student at the Data & Language Intelligence (DLI) Lab at Yonsei Univers
 **2024**  
 - <span style="color:darkbrown"> **VerifiNER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models** </span>  
 Seoyeon Kim\*, **Kwangwook Seo**\*, Hyungjoo Chae, Jinyoung Yeo, Dongha Lee  
-*arXiv preprint*  
+*arXiv preprint* [[arxiv](https://arxiv.org/abs/2402.18374)]
 
 ## Honors and Awards  
 
