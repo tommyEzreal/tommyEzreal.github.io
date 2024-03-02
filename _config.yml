@@ -11,7 +11,7 @@ locale                   : "Seoul, Korea"
 title                    : "Kwangwook Seo"
 title_separator          : ""
 name                     : &name "Kwangwook Seo"
-description              : &description "M.S Student at Yonsei University"
+description              : &description "M.S. Student at Yonsei University"
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,7 +22,7 @@ author:
   avatar           : "profile.png"
   name             : "Kwangwook Seo"
   pronouns         : # example: "she/her"  
-  bio              : "M.S Student at Yonsei University"
+  bio              : "M.S. Student at Yonsei University"
   location         : "Seoul, Korea"
   employer         : "Yonsei University, Dept of A.I"
   # uri              : # URL
