@@ -36,6 +36,12 @@ Minister of Science and ICT Award
 - **Second Prize –HUFS 18th Fall Academic Conference , Department of Brazilian Studies**  
 *Financial Ratio Analysis on Brazilian Travel Agencies Before and After COVID-19*  
 
-## Experience
+## 📂 Work Experience
 - **AI Research Intern, Twigfarm**  
 Sol Project 3rd Internship Program  
+
+## 📖 Teaching  
+- (AAI3120) Machine Learning, 2024S  
+  *Teaching Assistant*  
+- (AIC2110) Introduction to Data Science, 2024S
+  *Teaching Assistant*  
