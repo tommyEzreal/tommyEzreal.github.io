@@ -41,7 +41,7 @@ Minister of Science and ICT Award
 Sol Project 3rd Internship Program  
 
 ## 📖 Teaching  
-- (AAI3120) Machine Learning, Yonsei University    
+- **(AAI3120) Machine Learning, Yonsei University**     
   *Teaching Assistant*  
-- (AIC2110) Introduction to Data Science, Yonsei University  
+- **(AIC2110) Introduction to Data Science, Yonsei University**   
   *Teaching Assistant*  
