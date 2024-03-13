@@ -14,7 +14,7 @@ I'm M.S. student at the [Data & Language Intelligence (DLI) Lab](https://diyonse
 ## 🔎 Research Interest
 - Natural Language Processing
 - Table Reasoning
-- Knowledge-augmented Language Models
+- Knowledge Augmentation for Language Models
 
 
 ## 📚 Publications
