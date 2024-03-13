@@ -9,7 +9,8 @@ redirect_from:
 
 
 # About
-I'm M.S. student at the [Data & Language Intelligence (DLI) Lab](https://diyonsei.notion.site/Data-Language-Intelligence-Lab-Yonsei-University-7e121249362f42c2bdd1328aeaeb5f4b) at Yonsei University, advised by [Prof. Dongha Lee](https://donalee.github.io/). <img align="right" src="./IMG_1550 2.jpg">
+I'm M.S. student at the [Data & Language Intelligence (DLI) Lab](https://diyonsei.notion.site/Data-Language-Intelligence-Lab-Yonsei-University-7e121249362f42c2bdd1328aeaeb5f4b) at Yonsei University, advised by [Prof. Dongha Lee](https://donalee.github.io/).
+
 ## 🔎 Research Interest
 - Natural Language Processing
 - Table Reasoning
