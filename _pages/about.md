@@ -38,7 +38,7 @@ Minister of Science and ICT Award
 
 ## 📂 Work Experience
 - **AI Research Intern, Twigfarm**  
-Sol Project 3rd Internship Program
+Sol Project 3rd Internship Program  
 *Korean STS benchmark improvement via scoring silver-label inconsistency*
 
 ## 📖 Teaching  
