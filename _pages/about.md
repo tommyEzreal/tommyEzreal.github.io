@@ -13,8 +13,8 @@ I'm a linked M.S./Ph.D. student at the [Data & Language Intelligence (DLI) Lab](
 
 ## 🔎 Research Interest
 - Natural Language Processing
-- Table Reasoning
 - Knowledge Augmentation for Language Models
+- Reasoning Over Table
 
 
 ## 📚 Publications
