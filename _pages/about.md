@@ -19,6 +19,10 @@ I'm a linked M.S./Ph.D. student at the [Data & Language Intelligence (DLI) Lab](
 
 ## 📚 Publications
 *{ } : equal contribution*  
+- <span style="color:darkbrown"> **Unveiling Implicit Table Knowledge with Question-Then-Pinpoint Reasoner for Insightful Table Summarization** </span>  
+**Kwangwook Seo**, Jinyoung Yeo, Dongha Lee  
+*Arxiv Preprint*, 2024 [[arxiv]()]  
+
 - <span style="color:darkbrown"> **VerifiNER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models** </span>  
 {Seoyeon Kim, **Kwangwook Seo**}, Hyungjoo Chae, Jinyoung Yeo, Dongha Lee  
 *ACL main*, 2024 [[arxiv](https://arxiv.org/abs/2402.18374)]
