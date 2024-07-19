@@ -14,6 +14,7 @@ I'm a linked M.S./Ph.D. student at the [Data & Language Intelligence (DLI) Lab](
 ## 🔎 Research Interest
 - Natural Language Processing
 - Knowledge Augmentation for Language Models
+- Multi-Agent Interaction
 - Reasoning Over Table
 
 
