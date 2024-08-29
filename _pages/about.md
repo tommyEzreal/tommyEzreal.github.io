@@ -30,7 +30,7 @@ I'm a linked M.S./Ph.D. student at the [Data & Language Intelligence (DLI) Lab](
 
 ## 🏆 Honors and Awards  
 - **1st Prize – Bigcontest 2022 Data Analysis Champion League, MSIT and NIA**  
-Minister of Science and ICT Award 
+Minister of Science and ICT Award   
 *Optimal Location Selection of EV Slow Charger* [[presentation](https://www.youtube.com/watch?v=b7AGVEIontQ&t=54s)]  
 
 - **3rd Prize – 2022 HUFS AI Idea Contetst , HUFS AIEI**  
