@@ -23,12 +23,12 @@ I'm a linked M.S./Ph.D. student at the [Data & Language Intelligence (DLI) Lab](
 - <span style="color:darkbrown"> **Unveiling Implicit Table Knowledge with Question-Then-Pinpoint Reasoner for Insightful Table Summarization** </span>  
 **Kwangwook Seo**, Jinyoung Yeo, Dongha Lee  
 *EMNLP Findings*, 2024  
-[[paper](https://arxiv.org/abs/2406.12269)] / [[code]()] / [[presentation](https://drive.google.com/file/d/1ugNa5ARBmmKX9j6JrllvHPMQ7sY4Rxes/view?usp=drive_link)] / [[poster](https://drive.google.com/file/d/1Weav7flOgBumRv8Vq-NaGknBBuernwP0/view?usp=drive_link)]
+[[paper](https://arxiv.org/abs/2406.12269)] / [[code](https://github.com/tommyEzreal/QtP)] / [[presentation](https://drive.google.com/file/d/1ugNa5ARBmmKX9j6JrllvHPMQ7sY4Rxes/view?usp=drive_link)] / [[poster](https://drive.google.com/file/d/1Weav7flOgBumRv8Vq-NaGknBBuernwP0/view?usp=drive_link)]
 
 - <span style="color:darkbrown"> **VerifiNER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models** </span>  
 {Seoyeon Kim, **Kwangwook Seo**}, Hyungjoo Chae, Jinyoung Yeo, Dongha Lee  
 *ACL*, 2024  
-[[paper](https://aclanthology.org/2024.acl-long.134/)] / [[code]()] / [[presentation]()] / [[poster]((https://drive.google.com/file/d/1Weav7flOgBumRv8Vq-NaGknBBuernwP0/view?usp=drive_link))]
+[[paper](https://aclanthology.org/2024.acl-long.134/)] / [[code](https://github.com/emseoyk/VerifiNER)] / [[presentation]()] / [[poster](https://drive.google.com/file/d/1E6H9BMXFYjPzOe-I_uq1HBUr5BluX_A5/view?usp=sharing)]
 
 ## 🏆 Honors and Awards  
 - **1st Prize – Bigcontest 2022 Data Analysis Champion League, MSIT and NIA**  
