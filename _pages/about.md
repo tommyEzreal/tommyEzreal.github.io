@@ -28,7 +28,7 @@ I'm a linked M.S./Ph.D. student at the [Data & Language Intelligence (DLI) Lab](
 - <span style="color:darkbrown"> **VerifiNER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models** </span>  
 {Seoyeon Kim, **Kwangwook Seo**}, Hyungjoo Chae, Jinyoung Yeo, Dongha Lee  
 *ACL*, 2024  
-[[paper](https://aclanthology.org/2024.acl-long.134/)] / [[code]()]
+[[paper](https://aclanthology.org/2024.acl-long.134/)] / [[code]()] / [[presentation]()] / [[poster]((https://drive.google.com/file/d/1Weav7flOgBumRv8Vq-NaGknBBuernwP0/view?usp=drive_link))]
 
 ## 🏆 Honors and Awards  
 - **1st Prize – Bigcontest 2022 Data Analysis Champion League, MSIT and NIA**  
