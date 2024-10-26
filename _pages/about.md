@@ -23,7 +23,7 @@ I'm a linked M.S./Ph.D. student at the [Data & Language Intelligence (DLI) Lab](
 - <span style="color:darkbrown"> **Unveiling Implicit Table Knowledge with Question-Then-Pinpoint Reasoner for Insightful Table Summarization** </span>  
 **Kwangwook Seo**, Jinyoung Yeo, Dongha Lee  
 *EMNLP Findings*, 2024  
-[[paper](https://arxiv.org/abs/2406.12269)] / [[code]()] / [[presentation(https://drive.google.com/file/d/1ugNa5ARBmmKX9j6JrllvHPMQ7sY4Rxes/view?usp=drive_link)] / [[poster](https://drive.google.com/file/d/1Weav7flOgBumRv8Vq-NaGknBBuernwP0/view?usp=drive_link)]
+[[paper](https://arxiv.org/abs/2406.12269)] / [[code]()] / [[presentation](https://drive.google.com/file/d/1ugNa5ARBmmKX9j6JrllvHPMQ7sY4Rxes/view?usp=drive_link)] / [[poster](https://drive.google.com/file/d/1Weav7flOgBumRv8Vq-NaGknBBuernwP0/view?usp=drive_link)]
 
 - <span style="color:darkbrown"> **VerifiNER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models** </span>  
 {Seoyeon Kim, **Kwangwook Seo**}, Hyungjoo Chae, Jinyoung Yeo, Dongha Lee  
