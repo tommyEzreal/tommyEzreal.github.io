@@ -19,7 +19,7 @@ description              : &description "M.S. Student at Yonsei University"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_new.jpg"
   name             : "Kwangwook Seo"
   pronouns         : # example: "she/her"  
   bio              : "M.S. Student at Yonsei University"
