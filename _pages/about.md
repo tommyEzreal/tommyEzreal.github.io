@@ -20,6 +20,11 @@ I'm a linked M.S./Ph.D. student at the [Data & Language Intelligence (DLI) Lab](
 
 ## 📚 Publications
 *{ } : equal contribution*  
+- <span style="color:darkbrown"> **Stop Playing the Guessing Game! Target-free User Simulation for Evaluating Conversational Recommender Systems** </span>  
+Sunghwan Kim, Tongyoung Kim, **Kwangwook Seo**, Jinyoung Yeo, Dongha Lee  
+*arXiv Preprint*, 2024  
+[[paper]()] | [[code]()]  
+
 - <span style="color:darkbrown"> **Unveiling Implicit Table Knowledge with Question-Then-Pinpoint Reasoner for Insightful Table Summarization** </span>  
 **Kwangwook Seo**, Jinyoung Yeo, Dongha Lee  
 *EMNLP Findings*, 2024  
