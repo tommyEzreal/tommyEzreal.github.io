@@ -12,10 +12,10 @@ redirect_from:
 I'm a linked M.S./Ph.D. student at the [Data & Language Intelligence (DLI) Lab](https://diyonsei.notion.site/Data-Language-Intelligence-Lab-Yonsei-University-7e121249362f42c2bdd1328aeaeb5f4b) at Yonsei University, advised by [Prof. Dongha Lee](https://donalee.github.io/).
 
 ## 🔎 Research Interest
-- Natural Language Processing
+My research interests encompass a broad range of topics within the scope of natural language processing (NLP). Recently, I have been particularly interested in:  
 - Knowledge Augmentation for Language Models
-- Multi-Agent Interaction
-- Reasoning Over Table
+- Personalized Agents and User Simulation in diverse real environments
+- Reasoning over structured knowledge sources (e.g., tables) with complex information beyond general text
 
 
 ## 📚 Publications
@@ -23,7 +23,7 @@ I'm a linked M.S./Ph.D. student at the [Data & Language Intelligence (DLI) Lab](
 - <span style="color:darkbrown"> **Stop Playing the Guessing Game! Target-free User Simulation for Evaluating Conversational Recommender Systems** </span>  
 Sunghwan Kim, Tongyoung Kim, **Kwangwook Seo**, Jinyoung Yeo, Dongha Lee  
 *arXiv Preprint*, 2024  
-[[paper]()] | [[code]()]  
+[[paper](https://arxiv.org/abs/2411.16160)] | [[code]()]  
 
 - <span style="color:darkbrown"> **Unveiling Implicit Table Knowledge with Question-Then-Pinpoint Reasoner for Insightful Table Summarization** </span>  
 **Kwangwook Seo**, Jinyoung Yeo, Dongha Lee  
