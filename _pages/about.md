@@ -21,7 +21,7 @@ My research interests encompass a broad range of topics within the scope of natu
 ## 📚 Publications
 *{ } : equal contribution*  
 - <span style="color:darkbrown"> **Stop Playing the Guessing Game! Target-free User Simulation for Evaluating Conversational Recommender Systems** </span>  
-Sunghwan Kim, Tongyoung Kim, <ins>**Kwangwook Seo**</ins>, Jinyoung Yeo, Dongha Lee  
+<span style="font-size: 12px;">Sunghwan Kim, Tongyoung Kim, <ins>**Kwangwook Seo**</ins>, Jinyoung Yeo, Dongha Lee</span>
 *arXiv Preprint*, 2024  
 [[paper](https://arxiv.org/abs/2411.16160)] | [[code]()]  
 
