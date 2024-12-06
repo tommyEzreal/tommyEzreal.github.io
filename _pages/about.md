@@ -21,17 +21,17 @@ My research interests encompass a broad range of topics within the scope of natu
 ## 📚 Publications
 *{ } : equal contribution*  
 - <span style="color:darkbrown"> **Stop Playing the Guessing Game! Target-free User Simulation for Evaluating Conversational Recommender Systems** </span>  
-Sunghwan Kim, Tongyoung Kim, <ins>**Kwangwook Seo**</ins>, Jinyoung Yeo, Dongha Lee  
+Sunghwan Kim, Tongyoung Kim, <ins>Kwangwook Seo</ins>, Jinyoung Yeo, Dongha Lee  
 *arXiv Preprint*, 2024  
 [[paper](https://arxiv.org/abs/2411.16160)] | [[code]()]  
 
 - <span style="color:darkbrown"> **Unveiling Implicit Table Knowledge with Question-Then-Pinpoint Reasoner for Insightful Table Summarization** </span>  
-<ins>**Kwangwook Seo**</ins>, Jinyoung Yeo, Dongha Lee  
+<ins>Kwangwook Seo</ins>, Jinyoung Yeo, Dongha Lee  
 *EMNLP Findings*, 2024  
 [[paper](https://arxiv.org/abs/2406.12269)] | [[code](https://github.com/tommyEzreal/QtP)] | [[presentation](https://drive.google.com/file/d/1ugNa5ARBmmKX9j6JrllvHPMQ7sY4Rxes/view?usp=drive_link)] | [[poster](https://drive.google.com/file/d/1Weav7flOgBumRv8Vq-NaGknBBuernwP0/view?usp=drive_link)]
 
 - <span style="color:darkbrown"> **VerifiNER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models** </span>  
-{Seoyeon Kim, <ins>**Kwangwook Seo**</ins>}, Hyungjoo Chae, Jinyoung Yeo, Dongha Lee  
+{Seoyeon Kim, <ins>Kwangwook Seo</ins>}, Hyungjoo Chae, Jinyoung Yeo, Dongha Lee  
 *ACL*, 2024  
 [[paper](https://aclanthology.org/2024.acl-long.134/)] | [[code](https://github.com/emseoyk/VerifiNER)] | [[presentation]()] | [[poster](https://drive.google.com/file/d/1E6H9BMXFYjPzOe-I_uq1HBUr5BluX_A5/view?usp=sharing)]
 
