@@ -58,7 +58,7 @@ Sol Project 3rd Internship Program, 2022
 ## 📖 Teaching  
 - **[AI Expert] Information Retrieval and Recommendation System (2024), Samsung Electronics
 SNU R&D Center**    
-  *Teaching Assistant*   
+  *Teaching Assistant*, *Project Mentorship*   
 - **[AAI3120] Machine Learning (2023F), Yonsei University**     
   *Teaching Assistant*  
 - **[AIC2110] Introduction to Data Science (2023F), Yonsei University**   
