@@ -38,7 +38,8 @@ Sunghwan Kim, Tongyoung Kim, <ins>Kwangwook Seo</ins>, Jinyoung Yeo, Dongha Lee
 ## 🏆 Honors and Awards  
 - **1st Prize – Bigcontest 2022 Data Analysis Champion League, MSIT and NIA**  
 Minister of Science and ICT Award   
-*Optimal Location Selection of EV Slow Charger* [[presentation](https://www.youtube.com/watch?v=b7AGVEIontQ)]  
+*Optimal Location Selection of EV Slow Charger*  
+[[presentation](https://www.youtube.com/watch?v=b7AGVEIontQ)] | [[blog post](https://nothinsgonnachangemyworld.tistory.com/22)]    
 
 - **3rd Prize – 2022 HUFS AI Idea Contetst , HUFS AIEI**  
 *Development of SDGs Implementation Analysis System at Universities based on NLP*  
