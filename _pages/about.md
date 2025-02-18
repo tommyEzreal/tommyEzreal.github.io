@@ -23,7 +23,7 @@ My research interests encompass a broad range of topics within the scope of natu
 - <span style="color:darkbrown"> **MT-RAIG: Novel Benchmark and Evaluation Framework for Retrieval-Augmented Insight Generation over Multiple Tables** </span>  
 {<ins>Kwangwook Seo</ins>, Donguk Kwon}, Dongha Lee  
 *arXiv Preprint*, 2025  
-[[paper]()] | [[code]()]    
+[[paper](https://arxiv.org/abs/2502.11735)] | [[code](https://github.com/KWONDU/mt-raig)]    
 
 - <span style="color:darkbrown"> **Stop Playing the Guessing Game! Target-free User Simulation for Evaluating Conversational Recommender Systems** </span>  
 Sunghwan Kim, Tongyoung Kim, <ins>Kwangwook Seo</ins>, Jinyoung Yeo, Dongha Lee  
