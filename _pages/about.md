@@ -16,7 +16,7 @@ My research interests encompass a broad range of topics within the scope of natu
 - Knolwedge Augmentation of LMs with external knowledge sources  
 - Enhancing LM's internal knowledge activation via curating synthetic training data and quality control  
 - Personalized Agents and User Simulation in diverse real environments
-- Reasoning over structured knowledge sources (e.g., tables) with complex information beyond general text
+- Reasoning over structured knowledge sources (e.g., tables, graph,..) with complex information beyond general text
 
 
 ## 📚 Publications
