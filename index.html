@@ -130,18 +130,11 @@
                     <h2> 🔎 Research Interest</h2>
                     <p>
                       My research interests encompass a broad range of topics within the scope of natural language processing (NLP). Recently, I have been particularly interested in:
-
-                      <ul>
-                        <li>Personalized Agents and User Simulation in diverse real environments</li>
-                        <li>Enhancing LM’s internal knowledge activation via curating synthetic post-training data and quality control</li>
-                        <li>Knowledge Augmentation of LMs with external knowledge sources</li>
-                        <li>Reasoning over structured knowledge (e.g., tables, graph, ...) with complex information beyond general text</li>
-                      </ul>
                     </p>
-
-                    <p>
-                      ✨ I’m currently working on procedural memory learning for personalized agents, focusing on how agents can construct and update memories from past experiences so that they remain easy to retrieve and easy to use for future decision-making.
-                    </p>
+                    <ul>
+                      <li>Personalized Agents and User Simulation in diverse real environments</li>
+                      <li>Self-evolving Agents that Learn from their own Experience</li>
+                    </ul>
                   </td>
                 </tr>
               </tbody>
@@ -166,7 +159,31 @@
             >
 
               <tbody>
-                                <tr onmouseout="r2r_stop()" onmouseover="r2r_start()">
+                <tr>
+                  <td style="padding: 20px; width: 25%; vertical-align: middle">
+                    <a href="images/paper/ExpVoyager.png" target="_blank" rel="noopener">
+                      <img
+                        src="images/paper/ExpVoyager.png"
+                        alt="ExpVoyager overview: experience navigation for dynamic agent skill synthesis"
+                        width="100%"
+                        style="max-width: 100%; height: auto;"
+                      />
+                    </a>
+                  </td>
+                  <td style="padding: 8px; width: 75%; vertical-align: middle">
+                    <span class="papertitle">ExpVoyager: Direct Experience Navigation for Dynamic Agent Skill Synthesis</span>
+                    <br />
+                    <u>Kwangwook Seo</u>, Dongha Lee
+                    <br />
+                    <em>arXiv</em>, 2026
+                    <br />
+                    <!-- Replace placeholder URLs when the paper and code are available. -->
+                    <a href="#" onclick="return false;" style="color: rgba(0, 0, 128, 0.668);">Paper</a>
+                    / <a href="#" onclick="return false;" style="color: rgba(0, 0, 128, 0.668);">Code</a>
+                    <p></p>
+                  </td>
+                </tr>
+                <tr onmouseout="r2r_stop()" onmouseover="r2r_start()">
                   <td style="padding: 20px; width: 25%; vertical-align: middle">
                     <div>
                       <img
@@ -654,14 +671,25 @@
         </tr>
       </tbody>
     </table>
-    <div style="text-align:center; margin-top:20px; width:150px; height:100px; overflow:hidden; margin:0 auto;">
-      <script 
-        type="text/javascript" 
-        id="clustrmaps" 
-        src="//clustrmaps.com/map_v2.js?d=zbcxfJQgF2kJCz-Qj9Qh9_abVXe96JRGbWLDJn8yALg&cl=ffffff&w=a">
-      </script>
-    </div>
-    
+    <div
+      role="region"
+      aria-label="Visitor map"
+      style="text-align: center; width: 240px; max-width: 100%; margin: 20px auto;"
+    >
+      <p id="visitor-map-status" role="status" hidden style="color: #666;">
+        Visitor map is temporarily unavailable.
+      </p>
+      <a href="https://mapmyvisitors.com/web/1c8hk" title="View visitor statistics">
+        <img
+          src="https://mapmyvisitors.com/map.png?d=CDKkLO932neh7PnmAwAVNWhD5WK1nFNUjw3CHUKn7c8&amp;cl=ffffff"
+          alt="World map of website visitors — view visitor statistics"
+          width="180"
+          height="114"
+          style="max-width: 100%; height: auto; border: 0;"
+          onload="document.getElementById('visitor-map-status').hidden = true;"
+          onerror="document.getElementById('visitor-map-status').hidden = false;"
+        />
+      </a>
     </div>
     </body>
 </html>
