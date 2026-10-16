@@ -140,3 +140,34 @@ span.highlight {
     display: inline-block;
     border-radius: 10px;
 }
+
+.experience-heading {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+.experience-heading strong {
+  min-width: 0;
+}
+
+.company-logo {
+  display: block;
+  flex-shrink: 0;
+  width: auto;
+  object-fit: contain;
+}
+
+.company-logo-lg {
+  height: 18px;
+}
+
+.company-logo-naver {
+  height: 16px;
+}
+
+.company-logo-twigfarm {
+  height: 28px;
+}
